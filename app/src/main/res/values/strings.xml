@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Seoul_Happyplus_Finder</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="aaa">서울 행복플러스 카페 길잡이에 오신 것을 환영합니다!! 무엇을 도와드릴까요?</string>
+    <string name="bbb">목동점</string>
+    <string name="ccc">시청역점</string>
+    <string name="ddd">서울시청 신청사점</string>
+    <string name="eee">서울상상나라점</string>
+    <string name="fff">대치점</string>
+</resources>

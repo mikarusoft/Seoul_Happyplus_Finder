@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    android:orientation="vertical"
+    tools:context="kr.co.mikarusoft.seoul_happyplus_finder.MainControlActivity">
+
+    <TextView
+        android:textSize="30sp"
+        android:textColor="#FFFFFF"
+        android:text="@string/aaa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextureView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="300sp" />
+
+    <Button
+        android:id="@+id/go_mokdong"
+        android:text="@string/bbb"
+        android:textColor="@color/green"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/go_city_hall_station"
+        android:textColor="@color/blue"
+        android:text="@string/ccc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/go_new_city_hall"
+        android:textColor="@color/yellow"
+        android:text="@string/ddd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/go_seoul_sangsang"
+        android:textColor="@color/red"
+        android:text="@string/eee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/go_daechi"
+        android:textColor="@color/black"
+        android:text="@string/fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
